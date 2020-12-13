@@ -1,4 +1,5 @@
 Abstract—Edge detection is important in many computer vision applications. Traditional methods such as canny edge detection etc are limited in nature as they are hand crafted. In this paper, a flexible and powerful approach for detecting edges with cellular automata using genetic algorithms is explored. The implementation Is covered along with an evaluation on a few test images. Quality metric PSNR and edge detection performance metric MS-SSIM (Multi Scale Structural Similarity Index) are used to test the results obtained. A subjective assessment is also made to discuss the visual aspects of the test images.
+
 There are three kinds of files: 
 
 1)final_project_main_multiple_instances_versions.py
